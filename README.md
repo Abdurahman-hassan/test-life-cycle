@@ -1,1 +1,1 @@
-test-life-cycle
+This repo assist the beginners android Developers to know all functions in the android life cycle
